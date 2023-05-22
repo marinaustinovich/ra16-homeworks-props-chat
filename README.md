@@ -6,7 +6,7 @@ deployment: https://marinaustinovich.github.io/ra16-homeworks-props-chat/
 ===
 
 Необходимо реализовать один из компонентов чата — историю сообщений:
-![Чат](./assets/preview.png)
+![Чат](./public/preview.png)
 
 ## Данные
 
