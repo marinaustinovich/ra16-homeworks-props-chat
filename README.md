@@ -1,9 +1,9 @@
+История чата
+===
 [![Build status](https://ci.appveyor.com/api/projects/status/bg8incx92uw5q9d7/branch/main?svg=true)](https://ci.appveyor.com/project/marinaustinovich/ra16-homeworks-props-listing/branch/main)
 
 deployment: https://marinaustinovich.github.io/ra16-homeworks-props-chat/
 
-История чата
-===
 
 Необходимо реализовать один из компонентов чата — историю сообщений:
 ![Чат](./public/preview.png)
